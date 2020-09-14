@@ -1,3 +1,5 @@
+[Direct link to research paper in HTML](researchPaper.html)
+
 <div>
 
 <span class="c39"></span>
